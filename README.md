@@ -28,7 +28,7 @@ Developed an emotion recognition system using the GoogleNet Deep Learning Model 
 🔹 **Crop Recommendation System**  
 Built an ML model using KNN, Decision Tree, and Random Forest to recommend crops based on environmental factors.  
 
-🔹 **Adaptive Path Planning Model (A*)**  
+🔹 ***Adaptive Path Planning Model (A*)**  
 Implemented A* Algorithm for efficient pathfinding in navigation systems.  
 
 ---

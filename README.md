@@ -1,7 +1,7 @@
 ### 🚀 Chaithanya Nadithoka  
 **Software Developer | AI/ML Enthusiast | Researcher**  
 
-![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzE3MXdrdWQxdDd1b2FnOGxyM3l0OHJvZzY3MWE3bWQ5dzd5dnR3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjA1d213OXJ3aGYzMHlweDVwc3o4ZDRsM3oxb25sMDhzYTFlbnRkYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif)
 
 🔹 Passionate about problem-solving, AI, and building scalable applications.  
 🔹 Experienced in C++, Python, Web Development, and Machine Learning.  
